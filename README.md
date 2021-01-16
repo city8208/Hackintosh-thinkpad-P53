@@ -1,3 +1,4 @@
+![image](https://github.com/city8208/P53-hackintosh-EFI/blob/main/v72mf884geb61.png)
 This project still have something problem on this list.
 1.GPU
 2.Sound Card
