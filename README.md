@@ -1,11 +1,7 @@
 ![image](https://github.com/city8208/P53-hackintosh-EFI/blob/main/v72mf884geb61.png)
 This project still have something problem on this list.
 1.GPU
-2.Sound Card
-3.Bluetooth
-4.Fan control (sound loud)
-5.AirDrop
-6.WWAN card
+2.AirDrop
 
 And these things can be work.
 1.Thunderbolt (need to open the device on BIOS)
